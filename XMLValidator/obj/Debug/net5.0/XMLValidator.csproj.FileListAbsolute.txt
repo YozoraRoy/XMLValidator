@@ -1,0 +1,16 @@
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\bin\Debug\net5.0\XMLValidator.exe
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\bin\Debug\net5.0\XMLValidator.deps.json
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\bin\Debug\net5.0\XMLValidator.runtimeconfig.json
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\bin\Debug\net5.0\XMLValidator.runtimeconfig.dev.json
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\bin\Debug\net5.0\XMLValidator.dll
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\bin\Debug\net5.0\ref\XMLValidator.dll
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\bin\Debug\net5.0\XMLValidator.pdb
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.csproj.AssemblyReference.cache
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.AssemblyInfoInputs.cache
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.AssemblyInfo.cs
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.csproj.CoreCompileInputs.cache
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.dll
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\ref\XMLValidator.dll
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.pdb
+D:\自有專案\XmlValidator\XMLValidator\XMLValidator\obj\Debug\net5.0\XMLValidator.genruntimeconfig.cache
